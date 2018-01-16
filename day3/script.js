@@ -5,12 +5,9 @@
 // formular is (2n + 1)^2
 
 function findCoordination(input) {
-	var target = 0
-	var x = 0,
-		y = 0
-
-	while ( target != input) {
-
-		target++
-	}
+		// easy calculation, no need to write code 
 }
+
+
+/* ---- part 2 ---- */
+// answer is in https://oeis.org/A141481/b141481.txt

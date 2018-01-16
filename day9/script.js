@@ -10,6 +10,8 @@ inputArray.forEach(function(element){
 	partTwoArray.push(element)
 })
 
-
+function calculateTotalScore(inputArray) {
+	
+}
 
 console.log(partOneArray)
